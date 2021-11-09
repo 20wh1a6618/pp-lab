@@ -16,8 +16,8 @@ def linearsearch(arr,n,x):
         else:
             print("element found at position:",answer)    
 //input :
-Enter Size : 2
-Enter 2 elements : 5 6
-Element to be searched : 3
+Enter the total number of element : 3
+Enter the array elements : 7 8 9
+Enter the search element : 5
  //output :
  Element is not found   
