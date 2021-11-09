@@ -22,4 +22,9 @@ def binarysearch(arr,n,low,high,x):
       print("enter not found in the array")
     else:
       print("element found at position:",answer)
-            
+//input:
+Enter the size of an array : 4
+Enter the array elements : 2 3 4 5
+Enter the search element : 3
+//output:
+Element found at 2 position    
