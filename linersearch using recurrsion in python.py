@@ -17,3 +17,8 @@ def linearsearch(arr,n,x,i):
             print("element found at%d position."%answer)
         else:
             print("enter not found")
+//input :
+Enter number of elements :2 3 4
+Enter element to be found :4
+//output :
+Element is found at 2    
