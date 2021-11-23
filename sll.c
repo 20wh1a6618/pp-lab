@@ -173,7 +173,7 @@ int main(){
                   pos = searching(head,key);
                   if(pos == -1)
                     printf("element not found");
-                  else:
+                  else
                     printf("element found at %d",pos);
               case 11:
                  exit(0);
